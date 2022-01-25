@@ -1,17 +1,5 @@
 # Graphics Arhive
 
-## Clients
-
-* [COSADAMA](#COSADAMA)
-* [Department of Sociology | Chung-Ang University](#Department of Sociology | Chung-Ang University)
-* [LINE+](#LINE+)
-* [Union of International Architects](#Union of International Architects)
-* [Google DSC CAU](#Google DSC CAU)
-* [Team Cayley](#Team Cayley)
-* [CAU Culture](#CAU Culture)
-
----
-
 ## Projects
 
 ### COSADAMA
@@ -26,7 +14,7 @@
 
 ### Department of Sociology | Chung-Ang University
 
-- [중앙대학교 사회학과 20주년 기념 인cos터뷰집 디자인](cau_socio/socio_20_interview.pdf)
+- [중앙대학교 사회학과 20주년 기념 인터뷰집 디자인](cau_socio/socio_20_interview.pdf)
 
 ### LINE+
 
