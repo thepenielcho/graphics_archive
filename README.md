@@ -6,11 +6,15 @@
 
 - [컨퍼런스 홍보 포스터](COSADAMA/coco_2021.png)
 - [커리큘럼 강의용 PPT 디자인](COSADAMA/github_guides.pdf)
-
 - [컨퍼런스 PPT 디자인](COSADAMA/coco_blog.pdf)
 - [행정안전부 해커톤 프로덕트 디자인](COSADAMA/gov_hack.jpeg)
-- [커리큘럼 헤더 이미지 SQL](COSADAMA/sql.png)
-- [커리큘럼 헤더 이미지 Scrapy](COSADAMA/scrapy.png)
+- [커리큘럼 헤더 이미지 SQL 디자인](COSADAMA/sql.png)
+- [커리큘럼 헤더 이미지 Scrapy 디자인](COSADAMA/scrapy.png)
+- [카드뉴스 디자인](COSADAMA/)
+- [3기 모집 포스터](COSADAMA/member_3rd_poster.png)
+- [홈페이지 디자인 및 개발](https://cosadama.com)
+- [블로그 디자인 및 개발](https://blog.cosadama.com)
+- [커리큘럼 사이트 디자인 및 개발](https://curriculum.cosadama.com)
 
 ### Department of Sociology | Chung-Ang University
 
