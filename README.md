@@ -1,8 +1,14 @@
 # Graphics Arhive
 
+2018년 이후 제가 근무/활동 했던 기업/조직에서 디자인한 작업물들을 모아두었습니다. 대부분은 Adobe Photoshop과 Illustrator로 작업하였으며, COSADAMA 작업물의 경우 Affinity Designer를 주로 사용하였습니다.
+
 ## Projects
 
 ### COSADAMA
+
+- [2022 6월 연사 초청 세미나 Upstage](COSADAMA/2022-june-seminar.png)
+- [2022 5월 연사 초청 세미나 HIKE Lab](COSADAMA/2022-may-seminar.png)
+- [2022 3월 연사 초청 세미나 Team Cayley](COSADAMA/2022-march-seminar.png)
 
 - [컨퍼런스 홍보 포스터](COSADAMA/coco_2021.png)
 - [커리큘럼 강의용 PPT 디자인](COSADAMA/github_guides.pdf)
